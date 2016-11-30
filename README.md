@@ -3,6 +3,8 @@ Video Player
 
 HTML5 video player in pure javascript.
 
+![player](https://github.com/theorosel/player/raw/master/assets/img/screenshot.png) 
+
 ## Description
 This player is a school project. The aim of this project was to use html5 video API and interact with it in javascript with object-oriented approach to create a video player with all basics features and more fun if we can.
 > There is my first work on object-oriented javascript so I hope you'll be indulgent and sorry if my english is a little bit incorrect :p
